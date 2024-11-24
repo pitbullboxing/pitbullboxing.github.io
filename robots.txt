@@ -1,0 +1,9 @@
+# www.robotstxt.org/
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+Sitemap: https://pitbullboxing.kiev.ua/sitemap.xml
